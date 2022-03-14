@@ -1,0 +1,21 @@
+{
+    "name": "brogrammer-plus",
+    "displayName": "Brogrammer Plus",
+    "description": "Add semantic highlighting to the Brogrammer theme",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.65.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Brogrammer Plus",
+                "uiTheme": "vs-dark",
+                "path": "./themes/brogrammer-plus-color-theme.json"
+            }
+        ]
+    }
+}
