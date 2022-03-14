@@ -8,7 +8,7 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 
 - Forked from [Brogrammer theme](https://github.com/gerane/VSCodeThemes/tree/master/gerane.Theme-Brogrammer)
 
-## [0.0.2] - 2022-03-14
+## [0.0.3] - 2022-03-14
 
 - Removed deprecated code from Brogrammer theme
 - Added semantic highlighting and adjusted for Python and JavaScript
