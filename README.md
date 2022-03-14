@@ -2,7 +2,7 @@
 
 Brogrammer theme with semantic highlighting and more
 
-![](./icon.png)
+[![](./icon.png)](https://marketplace.visualstudio.com/items?itemName=jackjyq.brogrammer-plus)
 
 ## Change Log
 
