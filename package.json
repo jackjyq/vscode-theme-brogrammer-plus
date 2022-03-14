@@ -21,6 +21,6 @@
     "repository": "https://github.com/jackjyq/vscode-theme-brogrammer-plus",
     "publisher": "jackjyq",
     "galleryBanner.color": "#2D2D2D",
-    "icon": "./icon.png"
+    "icon": "icon.png"
 
 }
