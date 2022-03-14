@@ -79,7 +79,7 @@
       "name": "Invalid",
       "scope": "invalid",
       "settings": {
-        "foreground": "#ffffff"
+		  "fontStyle": "strikethrough"
       }
     },
     {
