@@ -2,8 +2,8 @@
   "name": "Brogrammer Plus",
   "colors": {
     "editor.background": "#1a1a1a",
-    "editorCursor.foreground": "#ecf0f1",
-    "editor.foreground": "#ecf0f1",
+    "editorCursor.foreground": "#E0E0E0",
+    "editor.foreground": "#E0E0E0",
     "editorWhitespace.foreground": "#F3FFB51A",
     "editor.lineHighlightBackground": "#2a2a2a",
     "editor.selectionBackground": "#2a2a2a",
@@ -13,7 +13,7 @@
   "tokenColors": [
     {
       "name": "Comment",
-      "scope": "comment",
+      "scope": ["comment", "string.quoted.docstring"],
       "settings": {
         "fontStyle": "italic",
         "foreground": "#606060"
@@ -29,7 +29,7 @@
     },
     {
       "name": "Entity",
-      "scope": "entity",
+      "scope": ["entity", "meta.function-call.generic"],
       "settings": {
         "fontStyle": "",
         "foreground": "#2ecc71"
@@ -414,5 +414,23 @@
     }
   ],
   "semanticHighlighting": true,
-  "semanticTokenColors": {}
+  "semanticTokenColors": {
+	  "class": {
+		  "fontStyle": "underline"
+	  },
+	  "module":  {
+		"fontStyle": "underline"
+	},
+	// Python Patch
+	"variable:python" :"#E0E0E0",
+	"property:python": "#E0E0E0",
+	"variable.readonly:python" :"#6c71c4",
+	// JavaScript Patch
+	"variable:javascript" :"#E0E0E0",
+	"property:javascript": "#E0E0E0",
+	"variable.readonly:javascript" :"#6c71c4",
+	"*.defaultLibrary:javascript" :"#2ecc71",
+	//TypeHint Patch, keep it to the bottom
+	  "*.typeHint": "#606060"
+  }
 }
