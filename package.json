@@ -1,26 +1,24 @@
 {
-    "name": "brogrammer-plus",
-    "displayName": "Brogrammer Plus",
-    "description": "Add semantic highlighting to the Brogrammer theme",
-    "version": "0.0.2",
-    "engines": {
-        "vscode": "^1.65.0"
-    },
-    "categories": [
-        "Themes"
-    ],
-    "contributes": {
-        "themes": [
-            {
-                "label": "Brogrammer Plus",
-                "uiTheme": "vs-dark",
-                "path": "./themes/brogrammer-plus-color-theme.json"
-            }
-        ]
-    },
-    "repository": "https://github.com/jackjyq/vscode-theme-brogrammer-plus",
-    "publisher": "jackjyq",
-    "galleryBanner.color": "#2D2D2D",
-    "icon": "icon.png"
-
+  "name": "brogrammer-plus",
+  "displayName": "Brogrammer Plus",
+  "description": "Add semantic highlighting to the Brogrammer theme",
+  "version": "0.0.2",
+  "engines": {
+    "vscode": "^1.65.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Brogrammer Plus",
+        "uiTheme": "vs-dark",
+        "path": "./themes/brogrammer-plus-color-theme.json"
+      }
+    ]
+  },
+  "repository": "https://github.com/jackjyq/vscode-theme-brogrammer-plus",
+  "publisher": "jackjyq",
+  "icon": "icon.png"
 }
