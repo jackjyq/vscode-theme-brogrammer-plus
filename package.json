@@ -17,5 +17,6 @@
                 "path": "./themes/brogrammer-plus-color-theme.json"
             }
         ]
-    }
+    },
+    "repository": "https://github.com/jackjyq/vscode-theme-brogrammer-plus"
 }
