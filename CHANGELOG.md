@@ -6,7 +6,7 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 
 ## [Unreleased]
 
-- Fork from [Brogrammer theme](https://github.com/gerane/VSCodeThemes/tree/master/gerane.Theme-Brogrammer)
+- Forked from [Brogrammer theme](https://github.com/gerane/VSCodeThemes/tree/master/gerane.Theme-Brogrammer)
 
 ## [0.0.2] - 2022-03-14
 

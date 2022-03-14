@@ -1,6 +1,6 @@
 # Brogrammer Plus VS Code theme
 
-Brogrammer theme with semantic highlighting and more.
+Brogrammer theme with semantic highlighting and more
 
 ![](./icon.png)
 

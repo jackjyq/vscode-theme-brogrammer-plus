@@ -1,7 +1,7 @@
 {
   "name": "brogrammer-plus",
   "displayName": "Brogrammer Plus",
-  "description": "Add semantic highlighting to the Brogrammer theme",
+  "description": "Brogrammer theme with semantic highlighting and more",
   "version": "0.0.2",
   "engines": {
     "vscode": "^1.65.0"
