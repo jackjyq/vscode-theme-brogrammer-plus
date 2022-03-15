@@ -63,7 +63,6 @@
       "name": "Support",
       "scope": "support",
       "settings": {
-        "fontStyle": " bold",
         "foreground": "#3498db"
       }
     },
@@ -416,20 +415,14 @@
   "semanticHighlighting": true,
   "semanticTokenColors": {
 	  "class": {
-		  "fontStyle": "underline"
+		  "fontStyle": "bold"
 	  },
 	  "module":  {
 		"fontStyle": "underline"
 	},
-	// Python Patch
-	"variable:python" :"#E0E0E0",
-	"property:python": "#E0E0E0",
-	"variable.readonly:python" :"#6c71c4",
-	// JavaScript Patch
-	"variable:javascript" :"#E0E0E0",
-	"property:javascript": "#E0E0E0",
-	"variable.readonly:javascript" :"#6c71c4",
-	"*.defaultLibrary:javascript" :"#2ecc71",
+	"variable" :"#E0E0E0",
+	"property": "#E0E0E0",
+	"variable.readonly" :"#6c71c4",
 	//TypeHint Patch, keep it to the bottom
 	  "*.typeHint": "#606060"
   }
