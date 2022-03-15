@@ -8,7 +8,35 @@
     "editor.lineHighlightBackground": "#2a2a2a",
     "editor.selectionBackground": "#2a2a2a",
     "editor.inactiveSelectionBackground": "#e74c3c",
-    "editorIndentGuide.background": "#222222"
+    "editorIndentGuide.background": "#222222",
+    // Title Bar colors
+    // https://code.visualstudio.com/api/references/theme-color#title-bar-colors
+    "titleBar.activeBackground": "#F6F6F6",
+    "titleBar.activeForeground": "#494949",
+    "titleBar.inactiveBackground": "#ECECEC",
+    "panelTitle.inactiveForeground": "#929292",
+    // Terminal Colors
+    // Modified from https://github.com/mbadolato/iTerm2-Color-Schemes/blob/master/vscode/Brogrammer.json
+    "terminal.background": "#1a1a1a",
+    "terminalCursor.foreground": "#E0E0E0",
+    "terminal.foreground": "#E0E0E0",
+    "terminal.selectionBackground": "#2a2a2a",
+    "terminal.ansiBlack": "#1f1f1f",
+    "terminal.ansiBlue": "#2a84d2",
+    "terminal.ansiCyan": "#1081d6",
+    "terminal.ansiGreen": "#2dc55e",
+    "terminal.ansiMagenta": "#4e5ab7",
+    "terminal.ansiRed": "#f81118",
+    "terminal.ansiWhite": "#d6dbe5",
+    "terminal.ansiYellow": "#ecba0f",
+    "terminal.ansiBrightBlack": "#d6dbe5",
+    "terminal.ansiBrightBlue": "#1081d6",
+    "terminal.ansiBrightCyan": "#0f7ddb",
+    "terminal.ansiBrightGreen": "#1dd361",
+    "terminal.ansiBrightMagenta": "#5350b9",
+    "terminal.ansiBrightRed": "#de352e",
+    "terminal.ansiBrightWhite": "#ffffff",
+    "terminal.ansiBrightYellow": "#f3bd09"
   },
   "tokenColors": [
     {

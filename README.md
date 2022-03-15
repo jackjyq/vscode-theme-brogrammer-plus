@@ -10,4 +10,5 @@ You can checkout all our changes in our [change log](./CHANGELOG.md).
 
 ## Acknowledgements
 
-- Forked from [Brogrammer theme](https://github.com/gerane/VSCodeThemes/tree/master/gerane.Theme-Brogrammer)
+- [Brogrammer VS Code theme](https://github.com/gerane/VSCodeThemes/tree/master/gerane.Theme-Brogrammer)
+- [Brogrammer terminal theme](https://github.com/mbadolato/iTerm2-Color-Schemes/blob/master/vscode/Brogrammer.json)
