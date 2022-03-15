@@ -78,7 +78,7 @@
       "name": "Invalid",
       "scope": "invalid",
       "settings": {
-		  "fontStyle": "strikethrough"
+        "fontStyle": "strikethrough"
       }
     },
     {
@@ -414,16 +414,73 @@
   ],
   "semanticHighlighting": true,
   "semanticTokenColors": {
-	  "class": {
-		  "fontStyle": "bold"
-	  },
-	  "module":  {
-		"fontStyle": "underline"
-	},
-	"variable" :"#E0E0E0",
-	"property": "#E0E0E0",
-	"variable.readonly" :"#6c71c4",
-	//TypeHint Patch, keep it to the bottom
-	  "*.typeHint": "#606060"
+    // https://code.visualstudio.com/api/language-extensions/semantic-highlight-guide#semantic-token-scope-map
+    "namespace": {
+      // For identifiers that declare or reference a namespace, module, or package.
+      "foreground": "#2ecc71"
+    },
+    "type": {
+      "foreground": "#2ecc71"
+    },
+    "type.defaultLibrary": {
+      "foreground": "#3498db"
+    },
+    "struct": {
+      "foreground": "#3498db"
+    },
+    "class": {
+      "foreground": "#2ecc71"
+    },
+    "class.defaultLibrary": {
+      "foreground": "#3498db"
+    },
+    "interface": {
+      "foreground": "#2ecc71"
+    },
+    "enum": {
+      "foreground": "#2ecc71"
+    },
+    "function": {
+      "foreground": "#2ecc71"
+    },
+    "function.defaultLibrary": {
+      "foreground": "#3498db"
+    },
+    "method": {
+      "foreground": "#2ecc71"
+    },
+    "macro": {
+      "foreground": "#2ecc71"
+    },
+    "module": {
+      // for Python
+      "foreground": "#2ecc71"
+    },
+    "variable": {
+      "foreground": "#E0E0E0"
+    },
+    "variable.readonly": {
+      "foreground": "#E0E0E0"
+    },
+    "variable.readonly.defaultLibrary": {
+      "foreground": "#3498db"
+    },
+    "parameter": {
+      "foreground": "#e67e22"
+    },
+    "property": {
+      "foreground": "#E0E0E0"
+    },
+    "property.readonly": {
+      "foreground": "#E0E0E0"
+    },
+    "enumMember": {
+      "foreground": "#E0E0E0"
+    },
+    "event": {
+      "foreground": "#E0E0E0"
+    },
+    //TypeHint Patch, keep it to the bottom
+    "*.typeHint": "#606060"
   }
 }
