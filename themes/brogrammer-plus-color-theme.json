@@ -16,7 +16,8 @@
     "tab.activeBackground": "#212121",
     "tab.activeForeground": "#C6C6C6",
     "tab.inactiveBackground": "#212121",
-    "tab.inactiveForeground": "#858585",
+    "tab.inactiveForeground": "#C6C6C6",
+    "tab.activeBorder": "#C6C6C6",
     // Side Bar colors
     // https://code.visualstudio.com/api/references/theme-color#side-bar
     "sideBar.background": "#212121",
