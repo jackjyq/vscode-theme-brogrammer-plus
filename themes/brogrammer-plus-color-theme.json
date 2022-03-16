@@ -4,6 +4,7 @@
     // Editor colors
     "editor.background": "#212121",
     "editor.foreground": "#E0E0E0",
+    "editorCursor.foreground": "#ffffff",
     // Title Bar colors
     // https://code.visualstudio.com/api/references/theme-color#title-bar-colors
     "titleBar.activeBackground": "#DADADA",
@@ -113,7 +114,7 @@
       "name": "Variable",
       "scope": "variable",
       "settings": {
-        "foreground": "#e67e22",
+        "foreground": "#E0E0E0",
         "fontStyle": ""
       }
     },
@@ -158,7 +159,7 @@
       "name": "String variable",
       "scope": "string variable",
       "settings": {
-        "foreground": "#ffffff"
+        "foreground": "#e67e22"
       }
     },
     {
