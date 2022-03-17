@@ -11,6 +11,7 @@
     "titleBar.inactiveBackground": "#212121",
     "titleBar.activeForeground": "#C6C6C6",
     "titleBar.inactiveForeground": "#606060",
+    "titleBar.border": "#606060",
     // Editor Groups & Tabs
     // https://code.visualstudio.com/api/references/theme-color#editor-groups-tabs
     "editorGroupHeader.tabsBackground": "#202020",
@@ -30,6 +31,7 @@
     // https://code.visualstudio.com/api/references/theme-color#status-bar-colors
     "statusBar.background": "#212121",
     "statusBar.foreground": "#c6c6c6",
+    "statusBar.border": "#606060",
     // Activity Bar colors
     // https://code.visualstudio.com/api/references/theme-color#activity-bar
     "activityBar.background": "#212121",
