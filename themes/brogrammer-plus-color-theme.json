@@ -7,14 +7,13 @@
     "editorCursor.foreground": "#ffffff",
     // Title Bar colors
     // https://code.visualstudio.com/api/references/theme-color#title-bar-colors
-    "titleBar.activeBackground": "#212121",
-    "titleBar.inactiveBackground": "#212121",
-    "titleBar.activeForeground": "#C6C6C6",
+    "titleBar.activeBackground": "#303030",
+    "titleBar.inactiveBackground": "#303030",
+    "titleBar.activeForeground": "#E0E0E0",
     "titleBar.inactiveForeground": "#606060",
-    "titleBar.border": "#606060",
     // Editor Groups & Tabs
     // https://code.visualstudio.com/api/references/theme-color#editor-groups-tabs
-    "editorGroupHeader.tabsBackground": "#202020",
+    "editorGroupHeader.tabsBackground": "#272727",
     "tab.activeBackground": "#212121",
     "tab.activeForeground": "#C6C6C6",
     "tab.inactiveBackground": "#212121",
@@ -22,22 +21,20 @@
     "tab.activeBorder": "#C6C6C6",
     // Side Bar colors
     // https://code.visualstudio.com/api/references/theme-color#side-bar
-    "sideBar.background": "#212121",
-    "sideBar.foreground": "#c6c6c6",
-    "sideBarSectionHeader.background": "#212121",
-    "sideBarSectionHeader.foreground": "#606060",
-    "sideBar.border": "#606060",
+    "sideBar.background": "#272727",
+    "sideBar.foreground": "#E0E0E0",
+    "sideBarSectionHeader.background": "#303030",
+    "sideBarSectionHeader.foreground": "#E0E0E0",
     // Status Bar colors
     // https://code.visualstudio.com/api/references/theme-color#status-bar-colors
-    "statusBar.background": "#212121",
-    "statusBar.foreground": "#c6c6c6",
-    "statusBar.border": "#606060",
+    "statusBar.background": "#303030",
+    "statusBar.foreground": "#E0E0E0",
     // Activity Bar colors
     // https://code.visualstudio.com/api/references/theme-color#activity-bar
-    "activityBar.background": "#212121",
+    "activityBar.background": "#303030",
     "activityBar.foreground": "#E0E0E0",
-    "activityBar.inactiveForeground": "#606060",
-    "activityBar.activeBorder": "#212121",
+    "activityBar.inactiveForeground": "#808080",
+    "activityBar.activeBorder": "#303030",
     // Panel Colors
     // https://code.visualstudio.com/api/references/theme-color#panel-colors
     "panel.border": "#606060",
