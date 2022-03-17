@@ -7,12 +7,13 @@
     "editorCursor.foreground": "#ffffff",
     // Title Bar colors
     // https://code.visualstudio.com/api/references/theme-color#title-bar-colors
-    "titleBar.activeBackground": "#DADADA",
-    "titleBar.inactiveBackground": "#DADADA",
-    "titleBar.activeForeground": "#202020",
-    "titleBar.inactiveForeground": "#202020",
+    "titleBar.activeBackground": "#212121",
+    "titleBar.inactiveBackground": "#212121",
+    "titleBar.activeForeground": "#C6C6C6",
+    "titleBar.inactiveForeground": "#606060",
     // Editor Groups & Tabs
-    "editorGroupHeader.tabsBackground":"#202020",
+    // https://code.visualstudio.com/api/references/theme-color#editor-groups-tabs
+    "editorGroupHeader.tabsBackground": "#202020",
     "tab.activeBackground": "#212121",
     "tab.activeForeground": "#C6C6C6",
     "tab.inactiveBackground": "#212121",
@@ -22,8 +23,9 @@
     // https://code.visualstudio.com/api/references/theme-color#side-bar
     "sideBar.background": "#212121",
     "sideBar.foreground": "#c6c6c6",
-    "sideBarSectionHeader.background":"#212121",
+    "sideBarSectionHeader.background": "#212121",
     "sideBarSectionHeader.foreground": "#606060",
+    "sideBar.border": "#606060",
     // Status Bar colors
     // https://code.visualstudio.com/api/references/theme-color#status-bar-colors
     "statusBar.background": "#212121",
@@ -31,9 +33,15 @@
     // Activity Bar colors
     // https://code.visualstudio.com/api/references/theme-color#activity-bar
     "activityBar.background": "#212121",
-    "activityBar.foreground":"#E0E0E0",
-    "activityBar.inactiveForeground":"#606060",
-		"activityBar.activeBorder": "#212121",
+    "activityBar.foreground": "#E0E0E0",
+    "activityBar.inactiveForeground": "#606060",
+    "activityBar.activeBorder": "#212121",
+    // Panel Colors
+    // https://code.visualstudio.com/api/references/theme-color#panel-colors
+    "panel.border": "#606060",
+    "panelTitle.activeForeground": "#C6C6C6",
+    "panelTitle.inactiveForeground": "#C6C6C6",
+    "panelInput.border": "#C6C6C6",
     // Terminal Colors
     // Modified from https://github.com/mbadolato/iTerm2-Color-Schemes/blob/master/vscode/Brogrammer.json
     "terminal.background": "#212121",
