@@ -22,3 +22,8 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 ## [0.0.5] - 2022-03-15
 
 - Added immersive UI colors
+
+## [0.0.6] - 2022-03-18
+
+- Added Liscense
+- Added Icon
