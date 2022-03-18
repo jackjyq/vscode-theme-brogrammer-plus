@@ -23,7 +23,7 @@
     // https://code.visualstudio.com/api/references/theme-color#side-bar
     "sideBar.background": "#292929",
     "sideBar.foreground": "#EEEEEE",
-    "sideBarSectionHeader.background": "#525252",
+    "sideBarSectionHeader.background": "#292929",
     "sideBarSectionHeader.foreground": "#EEEEEE",
     // Status Bar colors
     // https://code.visualstudio.com/api/references/theme-color#status-bar-colors
