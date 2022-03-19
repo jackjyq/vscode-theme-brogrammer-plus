@@ -27,8 +27,8 @@
     "sideBarSectionHeader.foreground": "#EEEEEE",
     // Status Bar colors
     // https://code.visualstudio.com/api/references/theme-color#status-bar-colors
-    "statusBar.background": "#131313",
-    "statusBar.foreground": "#C6C6C6",
+    // "statusBar.background": "#131313",
+    // "statusBar.foreground": "#C6C6C6",
     // Activity Bar colors
     // https://code.visualstudio.com/api/references/theme-color#activity-bar
     "activityBar.background": "#353535",
