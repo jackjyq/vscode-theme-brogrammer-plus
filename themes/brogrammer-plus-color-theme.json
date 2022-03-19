@@ -84,7 +84,7 @@
     },
     {
       "name": "Entity",
-      "scope": ["entity", "meta.function-call.generic"],
+      "scope": ["entity"],
       "settings": {
         "fontStyle": "",
         "foreground": "#2ecc71"
