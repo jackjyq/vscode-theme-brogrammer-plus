@@ -7,9 +7,9 @@
     "editorCursor.foreground": "#ffffff",
     // Title Bar colors
     // https://code.visualstudio.com/api/references/theme-color#title-bar-colors
-    "titleBar.activeBackground": "#292929",
+    "titleBar.activeBackground": "#353535",
     "titleBar.activeForeground": "#EEEEEE",
-    "titleBar.inactiveBackground": "#292929",
+    "titleBar.inactiveBackground": "#353535",
     "titleBar.inactiveForeground": "#606060",
     // Editor Groups & Tabs
     // https://code.visualstudio.com/api/references/theme-color#editor-groups-tabs
@@ -21,9 +21,9 @@
     "tab.activeBorder": "#C6C6C6",
     // Side Bar colors
     // https://code.visualstudio.com/api/references/theme-color#side-bar
-    "sideBar.background": "#292929",
+    "sideBar.background": "#353535",
     "sideBar.foreground": "#EEEEEE",
-    "sideBarSectionHeader.background": "#292929",
+    "sideBarSectionHeader.background": "#353535",
     "sideBarSectionHeader.foreground": "#EEEEEE",
     // Status Bar colors
     // https://code.visualstudio.com/api/references/theme-color#status-bar-colors
@@ -31,10 +31,10 @@
     "statusBar.foreground": "#C6C6C6",
     // Activity Bar colors
     // https://code.visualstudio.com/api/references/theme-color#activity-bar
-    "activityBar.background": "#292929",
+    "activityBar.background": "#353535",
     "activityBar.foreground": "#EEEEEE",
     "activityBar.inactiveForeground": "#808080",
-    "activityBar.activeBorder": "#292929",
+    "activityBar.activeBorder": "#353535",
     // Panel Colors
     // https://code.visualstudio.com/api/references/theme-color#panel-colors
     "panel.background": "#131313",
