@@ -9,7 +9,7 @@
     "editor.foreground": "#E0E0E0",
     "editorCursor.foreground": "#ffffff",
     "editor.selectionBackground": "#FCBC2E20",
-    "editorRuler.foreground":"#FCBC2E78",
+    "editorRuler.foreground": "#FCBC2E78",
     // Minimap
     // https://code.visualstudio.com/api/references/theme-color#minimap
     "minimap.selectionHighlight": "#FCBC2E20",
@@ -21,11 +21,11 @@
     "titleBar.inactiveForeground": "#606060",
     // Editor Groups & Tabs
     // https://code.visualstudio.com/api/references/theme-color#editor-groups-tabs
-    "editorGroupHeader.tabsBackground": "#212121",
+    "editorGroupHeader.tabsBackground": "#353535",
     "tab.activeBackground": "#212121",
     "tab.activeBorder": "#FCBC2E",
     "tab.activeForeground": "#C6C6C6",
-    "tab.inactiveBackground": "#212121",
+    "tab.inactiveBackground": "#353535",
     "tab.inactiveForeground": "#C6C6C6",
     // Side Bar colors
     // https://code.visualstudio.com/api/references/theme-color#side-bar
@@ -35,9 +35,8 @@
     "sideBarSectionHeader.foreground": "#EEEEEE",
     // Lists and trees
     // https://code.visualstudio.com/api/references/theme-color#lists-and-trees
-    "list.activeSelectionBackground":"#FB5F5720",
-    "list.hoverBackground":"#FB5F5710",
-
+    "list.activeSelectionBackground": "#FB5F5720",
+    "list.hoverBackground": "#FB5F5710",
     // Status Bar colors
     // https://code.visualstudio.com/api/references/theme-color#status-bar-colors
     // "statusBar.background": "#3498db",
@@ -48,14 +47,14 @@
     "activityBar.foreground": "#EEEEEE",
     "activityBar.inactiveForeground": "#808080",
     "activityBar.activeBorder": "#FB5F57",
-    "activityBarBadge.background":"#FB5F57",
-    "activityBarBadge.foreground":"#ffffff",
+    "activityBarBadge.background": "#FB5F57",
+    "activityBarBadge.foreground": "#ffffff",
     // Panel Colors
     // https://code.visualstudio.com/api/references/theme-color#panel-colors
     "panel.background": "#131313",
     "panelTitle.activeForeground": "#C6C6C6",
     "panelTitle.inactiveForeground": "#C6C6C6",
-    "panelTitle.activeBorder":"#28C840",
+    "panelTitle.activeBorder": "#28C840",
     // Terminal Colors
     // Modified from https://github.com/mbadolato/iTerm2-Color-Schemes/blob/master/vscode/Brogrammer.json
     "terminal.foreground": "#d6dbe5",
