@@ -10,6 +10,12 @@
     "editorCursor.foreground": "#ffffff",
     "editor.selectionBackground": "#FCBC2E20",
     "editorRuler.foreground": "#FCBC2E78",
+    // Peek view colors
+    // https://code.visualstudio.com/api/references/theme-color#minimap
+    "peekView.border": "#353535",
+    "peekViewEditor.background":"#131313",
+    "peekViewResult.background": "#353535",
+    "peekViewTitle.background": "#353535",
     // Minimap
     // https://code.visualstudio.com/api/references/theme-color#minimap
     "minimap.selectionHighlight": "#FCBC2E20",
