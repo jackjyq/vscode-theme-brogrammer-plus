@@ -33,7 +33,7 @@
     // https://code.visualstudio.com/api/references/theme-color#editor-groups-tabs
     "editorGroupHeader.tabsBackground": "#353535",
     "tab.activeBackground": "#212121",
-    "tab.activeBorder": "#C6C6C6",
+    "tab.activeBorderTop": "#c6c6c625",
     "tab.activeForeground": "#C6C6C6",
     "tab.inactiveBackground": "#353535",
     "tab.inactiveForeground": "#C6C6C6",
