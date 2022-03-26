@@ -8,10 +8,6 @@ Brogrammer theme with semantic highlighting and more
 ![Visual Studio Marketplace Last Updated](https://img.shields.io/visual-studio-marketplace/last-updated/jackjyq.brogrammer-plus)
 ![Visual Studio Marketplace Rating (Stars)](https://img.shields.io/visual-studio-marketplace/stars/jackjyq.brogrammer-plus)
 
-## Change Log
-
-You can checkout all our changes in our [change log](./CHANGELOG.md).
-
 ## Acknowledgements
 
 - [Brogrammer VS Code theme](https://github.com/gerane/VSCodeThemes/tree/master/gerane.Theme-Brogrammer)
