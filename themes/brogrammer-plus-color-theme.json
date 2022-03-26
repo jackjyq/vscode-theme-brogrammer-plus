@@ -11,11 +11,15 @@
     "editor.selectionBackground": "#FCBC2E20",
     "editorRuler.foreground": "#FCBC2E78",
     // Peek view colors
-    // https://code.visualstudio.com/api/references/theme-color#minimap
-    "peekView.border": "#353535",
+    // https://code.visualstudio.com/api/references/theme-color#peek-view-colors
+    "peekView.border": "#f1c40f",
     "peekViewEditor.background":"#131313",
     "peekViewResult.background": "#353535",
+    "peekViewResult.fileForeground": "#EEEEEE",
+    "peekViewResult.lineForeground": "#EEEEEE",
     "peekViewTitle.background": "#353535",
+    "peekViewTitleLabel.foreground": "#EEEEEE",
+    "peekViewTitleDescription.foreground": "#C6C6C6",
     // Minimap
     // https://code.visualstudio.com/api/references/theme-color#minimap
     "minimap.selectionHighlight": "#FCBC2E20",
@@ -29,10 +33,11 @@
     // https://code.visualstudio.com/api/references/theme-color#editor-groups-tabs
     "editorGroupHeader.tabsBackground": "#353535",
     "tab.activeBackground": "#212121",
-    "tab.activeBorder": "#FCBC2E",
+    "tab.activeBorder": "#C6C6C6",
     "tab.activeForeground": "#C6C6C6",
     "tab.inactiveBackground": "#353535",
     "tab.inactiveForeground": "#C6C6C6",
+    "tab.activeModifiedBorder":"#FCBC2E",
     // Side Bar colors
     // https://code.visualstudio.com/api/references/theme-color#side-bar
     "sideBar.background": "#353535",
@@ -61,6 +66,8 @@
     "panelTitle.activeForeground": "#C6C6C6",
     "panelTitle.inactiveForeground": "#C6C6C6",
     "panelTitle.activeBorder": "#28C840",
+    //
+    // "keybindingLabel.background":"#ff0000",
     // Terminal Colors
     // Modified from https://github.com/mbadolato/iTerm2-Color-Schemes/blob/master/vscode/Brogrammer.json
     "terminal.foreground": "#d6dbe5",
@@ -81,7 +88,7 @@
     "terminal.ansiBrightRed": "#de352e",
     "terminal.ansiBrightWhite": "#ffffff",
     "terminal.ansiBrightYellow": "#f3bd09",
-    "terminal.selectionBackground": "#28C84015",
+    "terminal.selectionBackground": "#28c84020",
     "terminalCursor.foreground": "#b9b9b9"
   },
   "tokenColors": [
