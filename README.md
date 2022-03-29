@@ -10,9 +10,9 @@ A materialized Brogrammer theme plus semantic highlighting and more
 
 ## Description
 
-The color schema design is based on [Brogrammer theme](https://github.com/gerane/VSCodeThemes/tree/master/gerane.Theme-Brogrammer). [Semantic highlighting](https://code.visualstudio.com/api/language-extensions/semantic-highlight-guide) is supported.
-
-The interface design is based on [material design dark theme](https://material.io/design/color/dark-theme.html). 
+- The color schema design is based on [Brogrammer theme](https://github.com/gerane/VSCodeThemes/tree/master/gerane.Theme-Brogrammer). 
+- [Semantic highlighting](https://code.visualstudio.com/api/language-extensions/semantic-highlight-guide) is supported. Tested mainly on Python.
+- The interface design is based on [material design dark theme](https://material.io/design/color/dark-theme.html). 
 
 ## Acknowledgements
 
