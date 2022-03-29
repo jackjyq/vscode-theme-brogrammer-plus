@@ -30,7 +30,7 @@
     // Status Bar colors
     // https://code.visualstudio.com/api/references/theme-color#status-bar-colors
     "statusBar.background": "#373737",
-    "statusBar.foreground": "#ffffff99",
+    "statusBar.foreground": "#ffffffde",
     // Editor Groups & Tabs
     // https://code.visualstudio.com/api/references/theme-color#editor-groups-tabs
     "editorGroupHeader.tabsBackground": "#272727",
