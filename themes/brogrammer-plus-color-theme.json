@@ -30,7 +30,7 @@
     // Status Bar colors
     // https://code.visualstudio.com/api/references/theme-color#status-bar-colors
     "statusBar.background": "#373737",
-    "statusBar.foreground": "#ffffffde",
+    "statusBar.foreground": "#ffffff99",
     // Editor Groups & Tabs
     // https://code.visualstudio.com/api/references/theme-color#editor-groups-tabs
     "editorGroupHeader.tabsBackground": "#272727",
@@ -62,7 +62,7 @@
     "activityBar.background": "#383838",
     "activityBar.foreground": "#ffffffde",
     "activityBar.inactiveForeground": "#ffffff99",
-    "activityBar.activeBorder": "#e74c3c",
+    "activityBar.activeBorder": "#ffffffde",
     "activityBarBadge.background": "#e74c3c",
     "activityBarBadge.foreground": "#ffffffde",
     // Panel Colors
@@ -78,7 +78,7 @@
     "terminal.ansiBlack": "#121212",
     "terminal.ansiWhite": "#ffffffde",
     "terminal.ansiBlue": "#3498db",
-    "terminal.ansiCyan": "#3cadd7",
+    "terminal.ansiCyan": "#3cc9d6",
     "terminal.ansiGreen": "#2ecc71",
     "terminal.ansiMagenta": "#6c71c4",
     "terminal.ansiRed": "#e74c3c",
@@ -528,7 +528,7 @@
     },
     "module": {
       // for Python
-      "foreground": "#2ecc71"
+      "foreground": "#3cc9d6"
     },
     "variable": {
       "foreground": "#ffffffde"
