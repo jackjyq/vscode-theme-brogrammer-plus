@@ -1,6 +1,6 @@
 # Brogrammer Plus VS Code theme
 
-A materialized Brogrammer theme plus semantic highlighting and more
+A materialized brogrammer theme with semantic highlighting and more
 
 [![](./icon.png)](https://marketplace.visualstudio.com/items?itemName=jackjyq.brogrammer-plus)
 
@@ -15,6 +15,10 @@ A materialized Brogrammer theme plus semantic highlighting and more
 - The color schema design is based on [Brogrammer theme](https://github.com/gerane/VSCodeThemes/tree/master/gerane.Theme-Brogrammer).
 - [Semantic highlighting](https://code.visualstudio.com/api/language-extensions/semantic-highlight-guide) is supported. Tested mainly on Python.
 - The interface design is based on [material design dark theme](https://material.io/design/color/dark-theme.html).
+
+## Related theme
+
+- [Brogrammer Plus terminal themes](https://github.com/jackjyq/iTerm2-Color-Schemes)
 
 ## Acknowledgements
 
