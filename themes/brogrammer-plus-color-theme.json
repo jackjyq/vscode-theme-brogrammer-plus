@@ -31,6 +31,7 @@
     // https://code.visualstudio.com/api/references/theme-color#status-bar-colors
     "statusBar.background": "#373737",
     "statusBar.foreground": "#ffffffde",
+    "debugToolBar.background": "#373737",
     // Editor Groups & Tabs
     // https://code.visualstudio.com/api/references/theme-color#editor-groups-tabs
     "editorGroupHeader.tabsBackground": "#272727",
@@ -53,10 +54,6 @@
     "sideBarSectionHeader.foreground": "#ffffffde",
     // Lists and trees
     // https://code.visualstudio.com/api/references/theme-color#lists-and-trees
-    // Status Bar colors
-    // https://code.visualstudio.com/api/references/theme-color#status-bar-colors
-    // "statusBar.background": "#3498db",
-    // "statusBar.foreground": "#ffffff",
     // Activity Bar colors
     // https://code.visualstudio.com/api/references/theme-color#activity-bar
     "activityBar.background": "#383838",
