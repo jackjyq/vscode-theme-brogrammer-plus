@@ -9,10 +9,12 @@
     "editor.foreground": "#ffffffde",
     "editorCursor.foreground": "#ffffff",
     "editorRuler.foreground": "#ffffff99",
+    "editorLineNumber.activeForeground": "#ffffffde",
+    "editorLineNumber.foreground": "#ffffff99",
     // Peek view colors
     // https://code.visualstudio.com/api/references/theme-color#peek-view-colors
     "peekView.border": "#373737",
-    "peekViewEditor.background":"#2D2D2D",
+    "peekViewEditor.background": "#2D2D2D",
     "peekViewResult.background": "#323232",
     "peekViewResult.fileForeground": "#ffffffde",
     "peekViewResult.lineForeground": "#ffffffde",
@@ -31,7 +33,20 @@
     // https://code.visualstudio.com/api/references/theme-color#status-bar-colors
     "statusBar.background": "#373737",
     "statusBar.foreground": "#ffffffde",
-    "debugToolBar.background": "#373737",
+    "statusBar.focusBorder": "#ffffff00",
+    "statusBar.border": "#ffffff00",
+    "statusBar.debuggingBackground": "#373737",
+    "statusBar.debuggingForeground": "#ffffffde",
+    "statusBar.debuggingBorder": "#ffffff00",
+    "statusBar.noFolderBackground": "#373737",
+    "statusBar.noFolderForeground": "#ffffffde",
+    "statusBar.noFolderBorder": "#ffffff00",
+    // Debug Icons colors
+    // https://code.visualstudio.com/api/references/theme-color#editor-groups-tabs
+    "debugConsole.errorForeground": "#e74c3c",
+    "debugConsole.warningForeground": "#f1c40f",
+    "debugConsole.infoForeground": "#2ecc71",
+    "debugConsole.sourceForeground": "#ffffffde",
     // Editor Groups & Tabs
     // https://code.visualstudio.com/api/references/theme-color#editor-groups-tabs
     "editorGroupHeader.tabsBackground": "#272727",
@@ -40,7 +55,7 @@
     "tab.activeForeground": "#ffffffde",
     "tab.inactiveBackground": "#272727",
     "tab.inactiveForeground": "#ffffffde",
-    "tab.activeModifiedBorder":"#f1c40f",
+    "tab.activeModifiedBorder": "#f1c40f",
     "tab.hoverBackground": "#323232",
     // Breadcrumbs colors
     // https://code.visualstudio.com/api/references/theme-color#breadcrumbs-colors
@@ -88,7 +103,15 @@
     "terminal.ansiBrightWhite": "#ffffff",
     "terminal.ansiBrightYellow": "#ffd60d",
     "terminal.selectionBackground": "#264f78",
-    "terminalCursor.foreground": "#ffffff"
+    "terminalCursor.foreground": "#ffffff",
+    // Welcome page colors
+    // https://code.visualstudio.com/api/references/theme-color#welcome-page-colors
+    "welcomePage.progress.background": "#3c3c3c",
+    "welcomePage.progress.foreground": "#3794ff",
+    "welcomePage.tileBackground": "#272727",
+    "welcomePage.tileHoverBackground": "#323232",
+    "welcomePage.tileShadow": "#0000005c",
+    "welcomePage.background": "#121212"
   },
   "tokenColors": [
     {
