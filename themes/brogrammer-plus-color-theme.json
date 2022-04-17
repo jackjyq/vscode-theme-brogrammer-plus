@@ -288,7 +288,7 @@
         "meta.tag entity"
       ],
       "settings": {
-        "foreground": "#ffffff"
+        "foreground": "#ffffffde"
       }
     },
     {
@@ -361,28 +361,28 @@
       "scope": ["meta.diff", "meta.diff.header"],
       "settings": {
         "fontStyle": "italic",
-        "foreground": "#F8F8F8"
+        "foreground": "#ffffffde"
       }
     },
     {
       "name": "diff.deleted",
       "scope": "markup.deleted",
       "settings": {
-        "foreground": "#F8F8F8"
+        "foreground": "#ffffffde"
       }
     },
     {
       "name": "diff.changed",
       "scope": "markup.changed",
       "settings": {
-        "foreground": "#F8F8F8"
+        "foreground": "#ffffffde"
       }
     },
     {
       "name": "diff.inserted",
       "scope": "markup.inserted",
       "settings": {
-        "foreground": "#F8F8F8"
+        "foreground": "#ffffffde"
       }
     },
     {
@@ -407,7 +407,7 @@
         "punctuation.definition.tag"
       ],
       "settings": {
-        "foreground": "#fff"
+        "foreground": "#ffffffde"
       }
     },
     {
@@ -422,7 +422,7 @@
       "name": "LESS variables",
       "scope": "variable.other.less",
       "settings": {
-        "foreground": "#ffffff"
+        "foreground": "#ffffffde"
       }
     },
     {
@@ -481,7 +481,7 @@
       "name": "Coffee vars",
       "scope": "variable.assignment.coffee variable.assignment.coffee",
       "settings": {
-        "foreground": "#FFFFFF"
+        "foreground": "#ffffffde"
       }
     },
     {
@@ -534,9 +534,6 @@
     "class": {
       "foreground": "#2ecc71"
     },
-    "class.defaultLibrary": {
-      "foreground": "#3498db"
-    },
     "interface": {
       "foreground": "#2ecc71"
     },
@@ -564,9 +561,6 @@
     },
     "variable.readonly": {
       "foreground": "#ffffffde"
-    },
-    "variable.readonly.defaultLibrary": {
-      "foreground": "#3498db"
     },
     "parameter": {
       "foreground": "#e67e22"
