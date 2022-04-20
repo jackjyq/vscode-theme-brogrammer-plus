@@ -13,32 +13,30 @@
     "editorLineNumber.foreground": "#ffffff99",
     // Peek view colors
     // https://code.visualstudio.com/api/references/theme-color#peek-view-colors
-    "peekView.border": "#373737",
-    "peekViewEditor.background": "#2D2D2D",
+    "peekView.border": "#383838",
+    "peekViewEditor.background": "#2E2E2E",
     "peekViewResult.background": "#323232",
     "peekViewResult.fileForeground": "#ffffffde",
     "peekViewResult.lineForeground": "#ffffffde",
-    "peekViewTitle.background": "#373737",
+    "peekViewTitle.background": "#383838",
     "peekViewTitleLabel.foreground": "#ffffffde",
     "peekViewTitleDescription.foreground": "#ffffff99",
-    // Minimap
-    // https://code.visualstudio.com/api/references/theme-color#minimap
     // Title Bar colors
     // https://code.visualstudio.com/api/references/theme-color#title-bar-colors
-    "titleBar.activeBackground": "#373737",
+    "titleBar.activeBackground": "#383838",
     "titleBar.activeForeground": "#ffffffde",
-    "titleBar.inactiveBackground": "#373737",
+    "titleBar.inactiveBackground": "#383838",
     "titleBar.inactiveForeground": "#ffffff99",
     // Status Bar colors
     // https://code.visualstudio.com/api/references/theme-color#status-bar-colors
-    "statusBar.background": "#373737",
+    "statusBar.background": "#383838",
     "statusBar.foreground": "#ffffffde",
     "statusBar.focusBorder": "#ffffff00",
     "statusBar.border": "#ffffff00",
-    "statusBar.debuggingBackground": "#373737",
+    "statusBar.debuggingBackground": "#383838",
     "statusBar.debuggingForeground": "#ffffffde",
     "statusBar.debuggingBorder": "#ffffff00",
-    "statusBar.noFolderBackground": "#373737",
+    "statusBar.noFolderBackground": "#383838",
     "statusBar.noFolderForeground": "#ffffffde",
     "statusBar.noFolderBorder": "#ffffff00",
     // Debug Icons colors
@@ -49,11 +47,10 @@
     "debugConsole.sourceForeground": "#ffffffde",
     // Editor Groups & Tabs
     // https://code.visualstudio.com/api/references/theme-color#editor-groups-tabs
-    "editorGroupHeader.tabsBackground": "#272727",
+    "editorGroupHeader.tabsBackground": "#262626",
     "tab.activeBackground": "#323232",
-    "tab.activeBorderTop": "#c6c6c625",
     "tab.activeForeground": "#ffffffde",
-    "tab.inactiveBackground": "#272727",
+    "tab.inactiveBackground": "#262626",
     "tab.inactiveForeground": "#ffffffde",
     "tab.activeModifiedBorder": "#f1c40f",
     "tab.hoverBackground": "#323232",
@@ -63,12 +60,10 @@
     "breadcrumb.foreground": "#ffffff99",
     // Side Bar colors
     // https://code.visualstudio.com/api/references/theme-color#side-bar
-    "sideBar.background": "#272727",
+    "sideBar.background": "#282828",
     "sideBar.foreground": "#ffffffde",
     "sideBarSectionHeader.background": "#323232",
     "sideBarSectionHeader.foreground": "#ffffffde",
-    // Lists and trees
-    // https://code.visualstudio.com/api/references/theme-color#lists-and-trees
     // Activity Bar colors
     // https://code.visualstudio.com/api/references/theme-color#activity-bar
     "activityBar.background": "#383838",
@@ -79,7 +74,7 @@
     "activityBarBadge.foreground": "#ffffffde",
     // Panel Colors
     // https://code.visualstudio.com/api/references/theme-color#panel-colors
-    "panel.background": "#272727",
+    "panel.background": "#282828",
     "panelTitle.activeForeground": "#ffffffde",
     "panelTitle.inactiveForeground": "#ffffff99",
     "panelTitle.activeBorder": "#ffffffde",
@@ -103,17 +98,10 @@
     "terminal.ansiBrightWhite": "#ffffff",
     "terminal.ansiBrightYellow": "#ffd60d",
     "terminal.selectionBackground": "#264f78",
-    "terminalCursor.foreground": "#ffffff",
-    // Welcome page colors
-    // https://code.visualstudio.com/api/references/theme-color#welcome-page-colors
-    "welcomePage.progress.background": "#3c3c3c",
-    "welcomePage.progress.foreground": "#3794ff",
-    "welcomePage.tileBackground": "#272727",
-    "welcomePage.tileHoverBackground": "#323232",
-    "welcomePage.tileShadow": "#0000005c",
-    "welcomePage.background": "#121212"
+    "terminalCursor.foreground": "#ffffff"
   },
   "tokenColors": [
+    // Base Colors
     {
       "name": "Comment",
       "scope": ["comment", "string.quoted.docstring"],
@@ -126,8 +114,7 @@
       "name": "Constant",
       "scope": "constant",
       "settings": {
-        "foreground": "#6c71c4",
-        "fontStyle": ""
+        "foreground": "#6c71c4"
       }
     },
     {
@@ -150,7 +137,6 @@
       "name": "Storage",
       "scope": "storage",
       "settings": {
-        "fontStyle": "",
         "foreground": "#3498db"
       }
     },
@@ -158,7 +144,6 @@
       "name": "String",
       "scope": "string",
       "settings": {
-        "fontStyle": "",
         "foreground": "#f1c40f"
       }
     },
@@ -166,15 +151,14 @@
       "name": "Support",
       "scope": "support",
       "settings": {
-        "foreground": "#3498db"
+        "foreground": "#3cc9d6"
       }
     },
     {
       "name": "Variable",
       "scope": "variable",
       "settings": {
-        "foreground": "#ffffffde",
-        "fontStyle": ""
+        "foreground": "#ffffffde"
       }
     },
     {
@@ -368,21 +352,38 @@
       "name": "diff.deleted",
       "scope": "markup.deleted",
       "settings": {
-        "foreground": "#ffffffde"
+        "foreground": "#e74c3c"
       }
     },
     {
       "name": "diff.changed",
       "scope": "markup.changed",
       "settings": {
-        "foreground": "#ffffffde"
+        "foreground": "#f1c40f"
       }
     },
     {
       "name": "diff.inserted",
       "scope": "markup.inserted",
       "settings": {
-        "foreground": "#ffffffde"
+        "foreground": "#2ecc71"
+      }
+    },
+    {
+      "name": "markdown heading",
+      "scope": [
+        "punctuation.definition.heading.markdown"
+      ],
+      "settings": {
+        "foreground": "#e74c3c"
+      }
+    },    {
+      "name": "markdown puncuation",
+      "scope": [
+        "punctuation.definition.markdown",
+      ],
+      "settings": {
+        "foreground": "#3498db"
       }
     },
     {
@@ -526,7 +527,7 @@
       "foreground": "#2ecc71"
     },
     "type.defaultLibrary": {
-      "foreground": "#3498db"
+      "foreground": "#3cc9d6"
     },
     "struct": {
       "foreground": "#3498db"
@@ -544,17 +545,13 @@
       "foreground": "#2ecc71"
     },
     "function.defaultLibrary": {
-      "foreground": "#3498db"
+      "foreground": "#3cc9d6"
     },
     "method": {
       "foreground": "#2ecc71"
     },
     "macro": {
       "foreground": "#2ecc71"
-    },
-    "module": {
-      // for Python
-      "foreground": "#3cc9d6"
     },
     "variable": {
       "foreground": "#ffffffde"
@@ -566,16 +563,16 @@
       "foreground": "#e67e22"
     },
     "property": {
-      "foreground": "#E0E0E0"
+      "foreground": "#ffffffde"
     },
     "property.readonly": {
-      "foreground": "#E0E0E0"
+      "foreground": "#ffffffde"
     },
     "enumMember": {
-      "foreground": "#E0E0E0"
+      "foreground": "#ffffffde"
     },
     "event": {
-      "foreground": "#E0E0E0"
+      "foreground": "#ffffffde"
     },
     //TypeHint Patch, keep it to the bottom
     "*.typeHint": "#ffffff99"
