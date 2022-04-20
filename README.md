@@ -1,4 +1,4 @@
-# Brogrammer Plus VS Code theme
+# Brogrammer Plus for VS Code
 
 A brogrammer theme with semantic highlighting and more
 
@@ -44,10 +44,20 @@ A brogrammer theme with semantic highlighting and more
 - Magenta: #6c71c4
 - Orange: #e67e22
 
-## Related theme
+## Suggested Font
 
-- [Brogrammer Plus terminal themes](https://github.com/jackjyq/iTerm2-Color-Schemes)
+- [DejaVu Sans Mono](https://dejavu-fonts.github.io/Download.html)
+
+```json
+{
+  "editor.fontFamily": "'DejaVu Sans Mono'"
+}
+```
+
+## Related project
+
+- [Brogrammer Plus for terminal](https://github.com/jackjyq/iTerm2-Color-Schemes)
 
 ## Acknowledgements
 
-- [Brogrammer VS Code theme](https://github.com/gerane/VSCodeThemes/tree/master/gerane.Theme-Brogrammer)
+- [Theme-Brogrammer](https://github.com/gerane/VSCodeThemes/tree/master/gerane.Theme-Brogrammer)
