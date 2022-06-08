@@ -1,8 +1,8 @@
-# Brogrammer Plus for VS Code
-
-A brogrammer theme with semantic highlighting and more
+# Brogrammer Plus
 
 [![](./icon.png)](https://marketplace.visualstudio.com/items?itemName=jackjyq.brogrammer-plus)
+
+> A Brogrammer theme with [Material Design](https://material.io/design/color/dark-theme.html), [Semantic Highlighting](https://code.visualstudio.com/api/language-extensions/semantic-highlight-guide) and more
 
 ![Visual Studio Marketplace Downloads](https://img.shields.io/visual-studio-marketplace/d/jackjyq.brogrammer-plus?color=%23e74c3c&style=for-the-badge)
 ![Developer](https://img.shields.io/badge/Developer-Jack%20Jiang-%23e67e22?style=for-the-badge)
@@ -12,21 +12,37 @@ A brogrammer theme with semantic highlighting and more
 ![Visual Studio Marketplace Rating (Stars)](https://img.shields.io/visual-studio-marketplace/stars/jackjyq.brogrammer-plus?color=%233498db&style=for-the-badge)
 ![Visual Studio Marketplace Version](https://img.shields.io/visual-studio-marketplace/v/jackjyq.brogrammer-plus?color=%236c71c4&style=for-the-badge)
 
-## Feature
+## Screenshots
 
-![](./screenshot.png)
+<h3 align="center">Python</h3>
 
-- [Brogrammer color](https://github.com/gerane/VSCodeThemes/tree/master/gerane.Theme-Brogrammer)
-- [Semantic highlighting](https://code.visualstudio.com/api/language-extensions/semantic-highlight-guide)
-- [Material design](https://material.io/design/color/dark-theme.html)
+![](./img/python.png)
+
+<h3 align="center">JavaScript</h3>
+
+![](./img/javascript.png)
+
+<h3 align="center">HTML</h3>
+
+![](./img/html.png)
+
+<h3 align="center">Terminal</h3>
+
+![](./img/terminal.png)
+
+<h3 align="center">Workspace</h3>
+
+![](./img/workspace.png)
 
 ## Suggested Font
 
-- [DejaVu Sans Mono](https://dejavu-fonts.github.io/Download.html)
+- Terminal font: [DejaVu Sans Mono](https://dejavu-fonts.github.io/Download.html)
+- Editor font: [Cascadia Mono](https://github.com/microsoft/cascadia-code/releases)
 
 ```json
 {
-  "editor.fontFamily": "'DejaVu Sans Mono'"
+  "editor.fontFamily": "'DejaVu Sans Mono'",
+  "terminal.integrated.fontFamily": "'Cascadia Mono'"
 }
 ```
 
@@ -60,10 +76,10 @@ A brogrammer theme with semantic highlighting and more
 - Blue: #3498db
 - Magenta: #6c71c4
 
-## Related project
-
-- [Brogrammer Plus for terminal](https://github.com/jackjyq/iTerm2-Color-Schemes)
-
 ## Acknowledgements
 
 - [Theme-Brogrammer](https://github.com/gerane/VSCodeThemes/tree/master/gerane.Theme-Brogrammer)
+
+## Related project
+
+- [Brogrammer Plus for terminal](https://github.com/jackjyq/iTerm2-Color-Schemes)
