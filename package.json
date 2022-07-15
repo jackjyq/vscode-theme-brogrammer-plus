@@ -1,7 +1,7 @@
 {
   "name": "brogrammer-plus",
   "displayName": "Brogrammer Plus",
-  "description": "A Brogrammer theme with Material Design, Semantic Highlighting and more",
+  "description": "Brogrammer theme with Semantic Highlighting, Material Design and more",
   "version": "0.0.22",
   "engines": {
     "vscode": "^1.65.0"
