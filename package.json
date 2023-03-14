@@ -1,8 +1,8 @@
 {
 	"name": "brogrammer-plus",
 	"displayName": "Brogrammer Plus",
-	"description": "An improved Brogrammer theme with semantic highlighting, WCAG AAA text color, companion terminal themes, and material-designed UI.",
-	"version": "0.0.26",
+	"description": "An improved Brogrammer theme with semantic highlighting, WCAG AAA text color, companion terminal themes, and material-designed UI. / 一款改进的 Brogrammer 主题，拥有语义高亮功能、符合 WCAG AAA 文本配色、配套的终端主题、以及符合 Material Design 的界面设计。",
+	"version": "0.0.27",
 	"engines": {
 		"vscode": "^1.65.0"
 	},
