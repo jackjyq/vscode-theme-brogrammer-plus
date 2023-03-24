@@ -38,6 +38,14 @@ The UI is designed according to the [Matrial Design Dark Theme](https://material
 
 该用户界面的设计遵循了 [Material Design 深色主题指南](https://material.io/design/color/dark-theme.html#properties)。
 
+## [Screenshots](./img/origin/) / [截图](./img/origin/)
+
+Click the image to view the high resolution version.
+
+点击截图，查看高清版本。
+
+[![](./img/resized/javascript.png)](./img/origin/javascript.png)
+
 ## Color Palette / 配色
 
 ### Text colors / 文本颜色
@@ -52,19 +60,11 @@ The UI is designed according to the [Matrial Design Dark Theme](https://material
 | ------- | ------- | ------- | ------- | ------- | ------- | ------- |
 | #E74C3C | #E67E22 | #F1C40F | #2ECC71 | #3CC9D6 | #3498DB | #6C71C4 |
 
-## UI colors / 界面颜色
+### UI colors / 界面颜色
 
 | 00dp    | 01dp    | 02dp    | 03dp    | 04dp    | 08dp    | 12dp    | 16dp    | 24dp    |
 | ------- | ------- | ------- | ------- | ------- | ------- | ------- | ------- | ------- |
 | #121212 | #1E1E1E | #222222 | #242424 | #262626 | #2E2E2E | #323232 | #363636 | #383838 |
-
-## [Screenshots](./img/origin/) / [截图](./img/origin/)
-
-Click the image to view the high resolution version.
-
-点击截图，查看高清版本。
-
-[![](./img/resized/javascript.png)](./img/origin/javascript.png)
 
 ## Attributions / 鸣谢
 
