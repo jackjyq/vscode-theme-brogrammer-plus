@@ -26,18 +26,6 @@ Built with [WCAG AAA standard](https://webaim.org/resources/contrastchecker/) in
 
 设计时考虑了 [WCAG AAA 标准](https://webaim.org/resources/contrastchecker/)，通过至少 7：1 的对比度来提供良好的可读性。此外，该主题还遵循了 [Material Design 文本可读性指南](https://material.io/design/color/text-legibility.html#text-backgrounds)。
 
-#### Text colors / 文本颜色
-
-| High Emphasis | Medium Emphasis | Disabled  |
-| ------------- | --------------- | --------- |
-| #ffffffde     | #ffffff99       | #ffffff61 |
-
-#### Highlighting colors / 高亮颜色
-
-| Red     | Orange  | Yellow  | Green   | Cyan    | Blue    | Magenta |
-| ------- | ------- | ------- | ------- | ------- | ------- | ------- |
-| #e74c3c | #e67e22 | #f1c40f | #2ecc71 | #3cc9d6 | #3498db | #6c71c4 |
-
 ### 3. Companion terminal themes / 配套的终端主题
 
 Provides companion terminal themes for both integrated terminal and [external terminals](https://github.com/jackjyq/iTerm2-Color-Schemes).
@@ -49,6 +37,22 @@ Provides companion terminal themes for both integrated terminal and [external te
 The UI is designed according to the [Matrial Design Dark Theme](https://material.io/design/color/dark-theme.html#properties) guide.
 
 该用户界面的设计遵循了 [Material Design 深色主题指南](https://material.io/design/color/dark-theme.html#properties)。
+
+## Color Palette / 配色
+
+### Text colors / 文本颜色
+
+| High Emphasis | Medium Emphasis | Disabled  |
+| ------------- | --------------- | --------- |
+| #FFFFFFDE     | #FFFFFF99       | #FFFFFF61 |
+
+### Highlighting colors / 高亮颜色
+
+| Red     | Orange  | Yellow  | Green   | Cyan    | Blue    | Magenta |
+| ------- | ------- | ------- | ------- | ------- | ------- | ------- |
+| #E74C3C | #E67E22 | #F1C40F | #2ECC71 | #3CC9D6 | #3498DB | #6C71C4 |
+
+## UI colors / 界面颜色
 
 | 00dp    | 01dp    | 02dp    | 03dp    | 04dp    | 08dp    | 12dp    | 16dp    | 24dp    |
 | ------- | ------- | ------- | ------- | ------- | ------- | ------- | ------- | ------- |
