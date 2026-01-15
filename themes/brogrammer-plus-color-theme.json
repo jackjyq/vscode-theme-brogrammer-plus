@@ -371,17 +371,14 @@
     },
     {
       "name": "markdown heading",
-      "scope": [
-        "punctuation.definition.heading.markdown"
-      ],
+      "scope": ["punctuation.definition.heading.markdown"],
       "settings": {
         "foreground": "#e74c3c"
       }
-    },    {
+    },
+    {
       "name": "markdown puncuation",
-      "scope": [
-        "punctuation.definition.markdown",
-      ],
+      "scope": ["punctuation.definition.markdown"],
       "settings": {
         "foreground": "#3498db"
       }
@@ -558,6 +555,9 @@
     },
     "variable.readonly": {
       "foreground": "#ffffffde"
+    },
+    "variable.readonly:python": {
+      "foreground": "#6c71c4"
     },
     "parameter": {
       "foreground": "#e67e22"
